@@ -1,0 +1,508 @@
+/* xs */
+
+@media screen and (max-width:767px) {
+    .sub-title-banner>h1 {
+        font-size: 3rem !important;
+    }
+
+    .banner-content>div>.row {
+        justify-content: center;
+    }
+
+    .shape-area>img:nth-of-type(1) {
+        bottom: 0;
+        right: 0;
+    }
+
+    .menu-mobile-main {
+        left: 0;
+    }
+
+    header {
+        z-index: 120;
+    }
+
+    .menu-mobile-main {
+        top: 71px;
+    }
+
+    #menu-container>nav>ul {
+        flex-direction: column;
+        align-items: flex-start;
+
+
+    }
+
+    #menu-container>nav {
+        overflow-y: scroll;
+        overflow-x: hidden;
+    }
+
+    #menu-container>nav>ul>li>a {
+        padding: 0 !important;
+        font-size: 1.5rem;
+        justify-content: flex-start;
+    }
+
+    #menu-container>nav>ul>li>a::after {
+        font-size: 1rem !important;
+    }
+
+    #menu-container>nav>ul>li>nav {
+        padding: 0 !important;
+    }
+
+    #menu-container>nav>ul>li>nav>ul>li>a {
+        padding: .5rem !important;
+
+        font-size: 1rem !important;
+    }
+
+    #menu-container>nav>ul>li>nav {
+        position: static;
+        opacity: 1;
+        visibility: visible;
+        transform: none;
+    }
+
+    #menu-container>nav>ul>li {
+        overflow: hidden;
+    }
+
+    #menu-container>nav>ul>li {
+        overflow: hidden;
+        transition: 1s all;
+    }
+
+    .about-page>.container>.row {
+        justify-content: center;
+
+    }
+
+    .about-text>span {
+        font-size: 1.8rem !important;
+    }
+
+    .game-menu-content>ul>li {
+        width: 50px !important;
+        height: 50px !important;
+
+    }
+
+    .download-button>a>img {
+        width: 90% !important;
+    }
+
+    .auto-type>span:nth-of-type(1) {
+        font-size: 4rem !important;
+    }
+
+    .our-games::before,
+    .our-games::after,
+    .banner-container::before,
+    .sec {
+        display: none;
+
+    }
+
+    .game-menu {
+        padding: .5rem !important;
+    }
+
+    .game-menu>li {
+        padding: .5rem !important;
+        width: 40px;
+        height: 40px;
+    }
+
+    .game-menu-content {
+        width: 95%;
+    }
+
+    .game-info-odometer>span {
+        font-size: 4rem;
+    }
+
+    .game-info-odometer>p {
+        font-size: 1rem;
+    }
+
+    .familly-container::before {
+        top: 50%;
+
+    }
+
+    .skills-icon>i::before {
+        font-size: 1rem !important;
+    }
+
+    .Community-container::before {
+        background-size: 30% !important;
+    }
+
+    /* background-size: 20% !important; */
+    .Community-container::after {
+        background-size: 30% !important;
+    }
+
+    .image-Community>figure>img {
+        width: 50% !important;
+    }
+
+    .image-Community {
+        margin-bottom: 2rem !important;
+
+    }
+
+    .footer-left-item {
+        padding: 120px 0 !important;
+    }
+    .footer-right-item{
+        padding: 120px 0 !important;
+    }
+    .footer-form>.btn-about>span>a{
+        padding: .5rem !important;
+    }
+}
+
+
+
+
+
+/* sm
+
+@media screen and (min-width:577px){
+
+
+} */
+
+
+
+/* md */
+@media screen and (min-width:768px) {
+    .sub-title-banner>h1 {
+        font-size: 4rem !important;
+    }
+
+    .shape-area>img:nth-of-type(1) {
+        bottom: 0;
+        right: 0;
+    }
+
+    .menu-mobile-main {
+        left: 0;
+    }
+
+    header {
+        z-index: 120;
+    }
+
+    .banner-content>div>.row {
+        justify-content: flex-start;
+    }
+
+    .menu-mobile-main {
+        top: 71px;
+    }
+
+    #menu-container>nav>ul {
+        flex-direction: column;
+        align-items: flex-start;
+
+
+    }
+
+    #menu-container>nav {
+        overflow-y: scroll;
+        overflow-x: hidden;
+    }
+
+    #menu-container>nav>ul>li>a {
+        padding: 0 !important;
+        font-size: 1.5rem;
+        justify-content: flex-start;
+    }
+
+    #menu-container>nav>ul>li>a::after {
+        font-size: 1rem !important;
+    }
+
+    #menu-container>nav>ul>li>nav {
+        padding: 0 !important;
+    }
+
+    #menu-container>nav>ul>li>nav>ul>li>a {
+        padding: .5rem !important;
+
+        font-size: 1rem !important;
+    }
+
+    #menu-container>nav>ul>li>nav {
+        position: static;
+        opacity: 1;
+        visibility: visible;
+        transform: none;
+    }
+
+    #menu-container>nav>ul>li {
+        overflow: hidden;
+        transition: 1s all;
+    }
+
+    .about-page>.container>.row {
+        justify-content: center;
+
+    }
+
+    .about-text>span {
+        font-size: 2.1rem !important;
+    }
+
+    .game-menu {
+        padding: 1rem !important;
+
+    }
+
+    .game-menu>li {
+        padding: 1rem !important;
+        width: 60px;
+        height: 60px;
+    }
+
+    .game-menu-content {
+        width: 100%;
+    }
+
+    .game-menu-content {
+        width: 90%;
+    }
+
+    .game-info-odometer>span {
+        font-size: 5rem;
+    }
+
+    .game-info-odometer>p {
+        font-size: 1.2rem;
+    }
+
+    .familly-container::before {
+        top: 55%;
+
+    }
+
+    .Community-container::before {
+        background-size: 40% !important;
+    }
+
+    /* background-size: 20% !important; */
+    .Community-container::after {
+        background-size: 40% !important;
+    }
+
+    .image-Community>figure>img {
+        width: 40% !important;
+    }
+
+    .image-Community {
+        margin-bottom: 2rem !important;
+
+    }
+
+    .footer-left-item {
+        padding: 120px 0 !important;
+    }
+    .footer-right-item{
+        padding: 120px 0 !important;
+    }
+
+}
+
+
+
+/* lg */
+
+@media screen and (min-width:992px) {
+    .shape-area>img:nth-of-type(1) {
+        bottom: 0 !important;
+        left: 40%;
+        transform: translateX(-50%);
+
+    }
+
+    .about-page>.container>.row {
+        justify-content: space-between;
+
+    }
+
+    .about-info {
+        order: 2;
+    }
+
+    .image-about {
+        order: 1;
+    }
+
+    .game-menu-content>ul>li {
+        width: 50px !important;
+        height: 50px !important;
+
+    }
+
+    .about-text>span {
+        font-size: 2.5rem !important;
+    }
+
+    .familly-container::before {
+        top: 50%;
+
+    }
+
+    .Community-container::before {
+        background-size: 30% !important;
+    }
+
+    /* background-size: 20% !important; */
+    .Community-container::after {
+        background-size: 20% !important;
+    }
+
+    .image-Community>figure>img {
+        width: 70% !important;
+    }
+
+    .image-Community {
+        margin-bottom: 0 !important;
+
+    }
+
+    .footer-left-item {
+        padding:0 60px  !important;
+    }
+    .footer-right-item{
+        padding: 120px 40px !important;
+    }
+   
+}
+
+
+
+/* xl */
+
+@media screen and (min-width:1200px) {
+    .banner-content {
+        padding: 0 3rem !important;
+
+    }
+
+    .sub-title-banner>h1 {
+        font-size: 80px !important;
+    }
+
+    .menu-mobile-main {
+        left: 40px;
+    }
+
+    .banner-content>div>.row {
+        justify-content: space-between;
+    }
+
+    header {
+        z-index: 100;
+    }
+
+    #menu-container>nav>ul {
+        flex-direction: row;
+        align-items: center;
+    }
+
+    #menu-container>nav {
+        overflow-y: visible;
+        height: auto;
+    }
+
+    .banner-content>div>.row {
+        justify-content: space-between;
+    }
+
+    #menu-container>nav {
+        overflow: visible !important;
+        height: 100%;
+
+
+    }
+
+    .menu-mobile-main {
+        top: 0px;
+    }
+
+    #menu-container>nav>ul {
+        flex-direction: row;
+        justify-content: space-between;
+
+    }
+
+
+    #menu-container>nav>ul>li>a {
+        padding: 1rem !important;
+        font-size: 2rem;
+        justify-content: center;
+    }
+
+    #menu-container>nav>ul>li>a::after {
+        font-size: 1.5rem !important;
+    }
+
+    #menu-container>nav>ul>li>nav {
+        padding: 0rem !important;
+    }
+
+    #menu-container>nav>ul>li>nav>ul>li>a {
+        padding: .5rem !important;
+
+        font-size: 1.5rem !important;
+    }
+
+    #menu-container>nav>ul>li>nav {
+        position: absolute;
+        opacity: 0;
+        visibility: hidden;
+        transform: translateY(100px);
+        transition-duration: .5s;
+        transition-property: transform, opacity;
+
+
+    }
+
+    #menu-container>nav>ul>li:hover>nav {
+        opacity: 1;
+        visibility: visible;
+        transform: translateY(0px);
+
+    }
+
+    #menu-container>nav>ul>li {
+        height: auto !important;
+        overflow: visible;
+
+    }
+
+    .game-menu-content>ul>li {
+        width: 60px !important;
+        height: 60px !important;
+
+    }
+
+    .image-Community>figure>img {
+        width: 60% !important;
+    }
+    .footer-left-item {
+        padding:0 120px  !important;
+    }
+
+}
+
+
+
+/* xxl */
+
+@media screen and (min-width:1400px) {}
