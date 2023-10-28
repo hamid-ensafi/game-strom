@@ -6,7 +6,8 @@
 
 
 
-- 🔗 [Demo Project]([https://hamid-ensafi.github.io/Hamidensafi](https://hamid-ensafi.github.io/game-strom/)
+
+- 🔗 [Demo Project](https://hamid-ensafi.github.io/Hamidensafi)
 
 - 👨‍💻 Developed by hamid ensafi
 
