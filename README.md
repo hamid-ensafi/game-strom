@@ -1,7 +1,8 @@
 🏃‍♂️**this is gaming template **
 <h3 align="center"> 📸 Gallery </h3>
 
-![Untitled-1](https://github.com/hamid-ensafi/Hamidensafi/assets/129867758/b059ab07-709a-4d54-847a-e27a90df42e8)
+![Untitled-2](https://github.com/hamid-ensafi/game-strom/assets/129867758/4551a9c6-a218-41a7-8c56-8b87b7564a06)
+
 
 
 
